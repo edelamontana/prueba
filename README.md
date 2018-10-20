@@ -1,3 +1,3 @@
 # prueba
 
-ESte es un fichero de readme de ejemplo
+Este es un fichero de readme de ejemplo
